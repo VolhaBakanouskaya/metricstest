@@ -7,6 +7,12 @@ trigger:
 - master
 
 pool:
+refe
+arsdf
+cse
+adf
+c
+sd
   vmImage: 'ubuntu-latest'
 
 steps:
