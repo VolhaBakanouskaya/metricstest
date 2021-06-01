@@ -12,6 +12,12 @@ L,
 gbWEDWCD
 E
 WS
+dsc
+x
+z
+dx
+zs
+d
 EDF
 
 SWED
