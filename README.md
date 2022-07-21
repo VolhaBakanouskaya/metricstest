@@ -12,21 +12,7 @@ ewa
 
 ew
 e
-
-ewsa
-
-
-sxklasm
-t
-LK
-L,
-gbWEDWCD
-E
-WS
-dsc
-x
-z
-dx
+ccc
 zs
 d
 EDF
